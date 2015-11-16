@@ -11,6 +11,7 @@
 	<!--Link to personal Stylesheet-->
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="shortcut icon" href="images/earth.ico">
+	<?php include'connect.php'; ?> /* iclude connection to db */
 	
 	<!-- Additional Styling for Current Page -->
 	<style>
@@ -45,8 +46,8 @@
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li>
 						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
-							<input class="form-control" type="text" name="username" placeholder="Username">
-							<input class="form-control" type="password" name="password" placeholder="Password">
+							<input class="form-control" type="text" name="usernameInput" placeholder="Username">
+							<input class="form-control" type="password" name="passwordInput" placeholder="Password">
 							<button type="submit" class="btn btn-success">LOGIN</button>
 						</form>
 					</li>
@@ -64,6 +65,29 @@
 			</div>
 		</div>
 	</nav>
+
+	<?php
+		$tryUsername = $_POST['usernameInput'];
+		$tryPassword = $_POST['passwordInput'];
+		$found = false;
+		$query="SELECT * FROM User;";
+		$results=mysqli_query($conn, $query);
+
+		if(mysqli_num_rows($results)>0) { /* if there are results (rows>0) */
+			while (($row = mysqli_fetch_array($results)) && ($found == false)) {
+				if($tryUsername==$row['userID'] && $tryPassword==$row['password']){
+					$found=true;
+					$username=$tryUsername;
+					session_start();
+					$_SESSION['username']=$username;
+					$_SESSION['access_level']='standard_user';
+					header("Location: https://google.com");
+				}
+			}
+		}
+
+
+	?>
 
 	<!-- Modal -->
 	<div class="modal fade" id="modal-reg" role="dialog">
