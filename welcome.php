@@ -47,7 +47,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li>
-						<form role="form" class="form-inline" action="#" method="post">
+						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
 								<input class="form-control" type="text" name="username" placeholder="Username">
 								<input class="form-control" type="password" name="password" placeholder="Password">
 								<button type="submit" class="btn btn-success">LOGIN</button>
