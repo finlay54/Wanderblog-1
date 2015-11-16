@@ -46,9 +46,11 @@
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li>
 						<form role="form" class="form=control" id="loginForm" action="#" method="post">
-							<input type="text" name="username" placeholder="Username">
-							<input type="password" name="password" placeholder="Password">
-							<button type="submit" class="btn btn-success">LOGIN <span class="glyphicon glyphicon-ok"></span></button>
+							<div class="form-control">
+								<input type="text" name="username" placeholder="Username">
+								<input type="password" name="password" placeholder="Password">
+								<button type="submit" class="btn btn-success">LOGIN <span class="glyphicon glyphicon-ok"></span></button>
+							</div>
 						</form>
 					</li>
 					<li class="dropdown">
