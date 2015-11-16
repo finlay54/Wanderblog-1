@@ -101,7 +101,7 @@
 					<h4><span class="glyphicon glyphicon-lock"></span> Register your account</h4>
 				</div>
 				<div class="modal-body">
-					<form role="form">
+					<form role="form" method="post" id="registerForm">
 						<div class="form-group">
 							<div class="col-sm-6">
 								<label for="firstname">First Name</label>
@@ -144,6 +144,12 @@
 
 	<?php
 	/* PHP FOR REGISTER */
+		if($_POST['passwordconfirm'] == $_POST['password']){
+			$sql="";
+		}
+		else{
+			Header("Location: https://google.com");
+		}
 	?>
 
 	<div class="jumbotron text-center">
