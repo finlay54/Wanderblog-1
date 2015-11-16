@@ -14,14 +14,14 @@
                     <img src="Stylesheets/Images/LOTR.jpg" alt="PIC HERE">
                 </div>
                 <div class="col-sm-8">
-                    <h2>Adventure</h2>
-                    <h4>by <a href="#">Author</a></h4>
+                    <h2>There and Back Again: A Hobbit's Tale</h2>
+                    <h4>by <a href="#">Bilbo Baggins</a></h4>
                 </div>
             </div>
         </div>
 
         <div class="container-fluid" name="content">
-            <h4>i went on an adventure</h4>
+            <h4>I went on an adventure</h4>
         </div>
 
     </body>
