@@ -44,6 +44,13 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
+					<li>
+						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
+							<input class="form-control" type="text" name="username" placeholder="Username">
+							<input class="form-control" type="password" name="password" placeholder="Password">
+							<button type="submit" class="btn btn-success">LOGIN</button>
+						</form>
+					</li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
 							<span class="caret"></span>
@@ -53,13 +60,6 @@
 							<li><a href="adventuresearch.html">ADVENTURE SEARCH</a></li>
 							<li><a href="suthorsearch.html">AUTHOR SEARCH</a></li>
 						</ul>
-					</li>
-					<li>
-						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
-							<input class="form-control" type="text" name="username" placeholder="Username">
-							<input class="form-control" type="password" name="password" placeholder="Password">
-							<button type="submit" class="btn btn-success">LOGIN</button>
-						</form>
 					</li>
 				</ul>
 			</div>
