@@ -1,10 +1,18 @@
 <html>
     <head>
         <title>Adventure</title>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <style src="Stylesheets/adventureStyle.css"
     </head>
 
     <body>
-        <p>Adventure</p>
-        <p>This is my Adventure</p>
+        <div class="container-fluid" name="Title">
+            <h2>Adventure by Author</h2>
+        </div>
+        <div class="container-fluid" name="content">
+            <h4>This is my Adventure</h4>
+        </div>
     </body>
 </html>
