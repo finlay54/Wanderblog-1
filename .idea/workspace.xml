@@ -28,8 +28,8 @@
       <file leaf-file-name="welcome.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/welcome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47921225">
-              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.4420131">
+              <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -157,7 +157,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447691531639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made Register a link in the navbar and added the Modal Triggers into the link tag">
+      <created>1447691792139</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1447691792139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -199,7 +205,8 @@
     <MESSAGE value="Changed file extentions to .php and added a dropdown menu into the search bar to specify whether the search is for an Adventure or an Author" />
     <MESSAGE value="Added style to the Searches Dropdown" />
     <MESSAGE value="Added Register Modal when Register is clicked in the navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Register Modal when Register is clicked in the navbar" />
+    <MESSAGE value="Made Register a link in the navbar and added the Modal Triggers into the link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Register a link in the navbar and added the Modal Triggers into the link tag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -208,8 +215,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47921225">
-          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.4420131">
+          <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
           <folding />
         </state>
       </provider>
