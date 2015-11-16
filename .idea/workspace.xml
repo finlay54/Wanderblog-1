@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c199b886-2f6e-46ab-bc33-4c80c50e995a" name="Default" comment="added action=&quot;lo">
+      <change type="DELETED" beforePath="C:\Users\Jordan\PhpstormProjects\WanderBlog\login.php" afterPath="" />
+    </list>
+    <ignored path="WanderblogPHPMyAdmin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="C:\Users\Jordan\PhpstormProjects\Wanderblog" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WanderblogPHPMyAdmin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="adventure.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adventure.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12671232">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <push-targets>
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="github" target-branch="WelcomeAndLogin" />
+    </push-targets>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WanderblogPHPMyAdmin/phpmyadmin/config.inc.php" />
+        <option value="$PROJECT_DIR$/Welcome.php" />
+        <option value="$PROJECT_DIR$/phpmyadmin/config.inc.php" />
+        <option value="$PROJECT_DIR$/result.php" />
+        <option value="$PROJECT_DIR$/Js/home.js" />
+        <option value="$PROJECT_DIR$/SQLTable.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/Stylesheets/homeStyle.css" />
+        <option value="$PROJECT_DIR$/Stylesheets/guestStyle.css" />
+        <option value="$PROJECT_DIR$/table.php" />
+        <option value="$PROJECT_DIR$/create Adventure.php" />
+        <option value="$PROJECT_DIR$/output.php" />
+        <option value="$PROJECT_DIR$/createAdventure.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/Stylesheets/welcomeStyle.css" />
+        <option value="$PROJECT_DIR$/Js/welcomeJS.js" />
+        <option value="$PROJECT_DIR$/guest.php" />
+        <option value="$PROJECT_DIR$/welcome.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/adventure.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2182" />
+    <option name="height" value="1402" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WanderBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WanderBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WanderBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Jordan/PhpstormProjects/Wanderblog/home.php" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jordan\PhpstormProjects\WanderblogPHPMyAdmin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jordan\PhpstormProjects\Wanderblog\Stylesheets\Images" />
+      <recent name="C:\Users\Jordan\PhpstormProjects\Wanderblog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jordan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c199b886-2f6e-46ab-bc33-4c80c50e995a" name="Default" comment="" />
+      <created>1445447475812</created>
+      <option name="number" value="Default" />
+      <updated>1445447475812</updated>
+    </task>
+    <task id="LOCAL-00210" summary="updated query - wrong table">
+      <created>1447329748501</created>
+      <option name="number" value="00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1447329748501</updated>
+    </task>
+    <task id="LOCAL-00211" summary="updated query - wrong table">
+      <created>1447329866807</created>
+      <option name="number" value="00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1447329866807</updated>
+    </task>
+    <task id="LOCAL-00212" summary="created connect file">
+      <created>1447436519859</created>
+      <option name="number" value="00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1447436519861</updated>
+    </task>
+    <task id="LOCAL-00213" summary="removed connection and added include connecxt.php">
+      <created>1447436847096</created>
+      <option name="number" value="00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1447436847096</updated>
+    </task>
+    <task id="LOCAL-00214" summary="updated query">
+      <created>1447437811985</created>
+      <option name="number" value="00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1447437811985</updated>
+    </task>
+    <task id="LOCAL-00215" summary="updated code to log user in using sessions">
+      <created>1447438245100</created>
+      <option name="number" value="00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1447438245100</updated>
+    </task>
+    <task id="LOCAL-00216" summary="updated header(location) code">
+      <created>1447438463171</created>
+      <option name="number" value="00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1447438463171</updated>
+    </task>
+    <task id="LOCAL-00217" summary="updated header(location) code">
+      <created>1447438670058</created>
+      <option name="number" value="00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1447438670058</updated>
+    </task>
+    <task id="LOCAL-00218" summary="copied all login code to index.php as login is redundant">
+      <created>1447439005772</created>
+      <option name="number" value="00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1447439005772</updated>
+    </task>
+    <task id="LOCAL-00219" summary="moved include to body">
+      <created>1447439214990</created>
+      <option name="number" value="00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1447439214990</updated>
+    </task>
+    <task id="LOCAL-00220" summary="commented out error report">
+      <created>1447439297247</created>
+      <option name="number" value="00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1447439297247</updated>
+    </task>
+    <task id="LOCAL-00221" summary="commented out login link&#10;tried to put login on the same line">
+      <created>1447440318096</created>
+      <option name="number" value="00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1447440318096</updated>
+    </task>
+    <task id="LOCAL-00222" summary="changed h1 to h4 in hope of changing font size">
+      <created>1447440384861</created>
+      <option name="number" value="00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1447440384861</updated>
+    </task>
+    <task id="LOCAL-00223" summary="undid previous changes - looked silly">
+      <created>1447440486435</created>
+      <option name="number" value="00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1447440486435</updated>
+    </task>
+    <task id="LOCAL-00224" summary="edited the way guest gets the username">
+      <created>1447441376379</created>
+      <option name="number" value="00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1447441376379</updated>
+    </task>
+    <task id="LOCAL-00225" summary="added session.start()">
+      <created>1447441799342</created>
+      <option name="number" value="00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1447441799342</updated>
+    </task>
+    <task id="LOCAL-00226" summary="added session.start()">
+      <created>1447441887445</created>
+      <option name="number" value="00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1447441887445</updated>
+    </task>
+    <task id="LOCAL-00227" summary="added session.start()">
+      <created>1447442012569</created>
+      <option name="number" value="00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1447442012569</updated>
+    </task>
+    <task id="LOCAL-00228" summary="removed ?php tag in url">
+      <created>1447442329141</created>
+      <option name="number" value="00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1447442329141</updated>
+    </task>
+    <task id="LOCAL-00229" summary="removed ?php tag in url">
+      <created>1447516750979</created>
+      <option name="number" value="00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1447516750979</updated>
+    </task>
+    <task id="LOCAL-00230" summary="added welcome.php as second go at index page">
+      <created>1447630301627</created>
+      <option name="number" value="00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1447630301627</updated>
+    </task>
+    <task id="LOCAL-00231" summary="added welcome.php as second go at index page">
+      <created>1447630464128</created>
+      <option name="number" value="00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1447630464128</updated>
+    </task>
+    <task id="LOCAL-00232" summary="changed h1 to h4 to reduce size">
+      <created>1447630509862</created>
+      <option name="number" value="00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1447630509862</updated>
+    </task>
+    <task id="LOCAL-00233" summary="IMPORTED GOOGLE LIB FOR FONTS">
+      <created>1447630752722</created>
+      <option name="number" value="00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1447630752722</updated>
+    </task>
+    <task id="LOCAL-00234" summary="copied code from JBP">
+      <created>1447630861308</created>
+      <option name="number" value="00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1447630861308</updated>
+    </task>
+    <task id="LOCAL-00235" summary="updated refs">
+      <created>1447631166931</created>
+      <option name="number" value="00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1447631166931</updated>
+    </task>
+    <task id="LOCAL-00236" summary="updated refs">
+      <created>1447631447035</created>
+      <option name="number" value="00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1447631447035</updated>
+    </task>
+    <task id="LOCAL-00237" summary="updated refs">
+      <created>1447631517502</created>
+      <option name="number" value="00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1447631517502</updated>
+    </task>
+    <task id="LOCAL-00238" summary="MOVED LOGIN TO NAVBAR">
+      <created>1447631653933</created>
+      <option name="number" value="00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1447631653933</updated>
+    </task>
+    <task id="LOCAL-00239" summary="added padding to login">
+      <created>1447631814367</created>
+      <option name="number" value="00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1447631814367</updated>
+    </task>
+    <task id="LOCAL-00240" summary="added padding to login">
+      <created>1447632010035</created>
+      <option name="number" value="00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632010035</updated>
+    </task>
+    <task id="LOCAL-00241" summary="added padding to login">
+      <created>1447632026450</created>
+      <option name="number" value="00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632026450</updated>
+    </task>
+    <task id="LOCAL-00242" summary="added padding to login">
+      <created>1447632113464</created>
+      <option name="number" value="00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632113464</updated>
+    </task>
+    <task id="LOCAL-00243" summary="added padding to login">
+      <created>1447632173341</created>
+      <option name="number" value="00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632173341</updated>
+    </task>
+    <task id="LOCAL-00244" summary="changed colours">
+      <created>1447632349894</created>
+      <option name="number" value="00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632349894</updated>
+    </task>
+    <task id="LOCAL-00245" summary="added background image and removed jumbotron">
+      <created>1447632616452</created>
+      <option name="number" value="00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632616452</updated>
+    </task>
+    <task id="LOCAL-00246" summary="changed padding to margin">
+      <created>1447632733399</created>
+      <option name="number" value="00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632733399</updated>
+    </task>
+    <task id="LOCAL-00247" summary="changed colours">
+      <created>1447632880284</created>
+      <option name="number" value="00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632880284</updated>
+    </task>
+    <task id="LOCAL-00248" summary="updated margin">
+      <created>1447632962256</created>
+      <option name="number" value="00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1447632962256</updated>
+    </task>
+    <task id="LOCAL-00249" summary="added php">
+      <created>1447677763731</created>
+      <option name="number" value="00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1447677763732</updated>
+    </task>
+    <task id="LOCAL-00250" summary="changed colours">
+      <created>1447678391387</created>
+      <option name="number" value="00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1447678391387</updated>
+    </task>
+    <task id="LOCAL-00251" summary="updated php script">
+      <created>1447678715331</created>
+      <option name="number" value="00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1447678715331</updated>
+    </task>
+    <task id="LOCAL-00252" summary="updated button to submit">
+      <created>1447678798292</created>
+      <option name="number" value="00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1447678798292</updated>
+    </task>
+    <task id="LOCAL-00253" summary="updated page to recognise when guest and when not">
+      <created>1447679116583</created>
+      <option name="number" value="00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1447679116583</updated>
+    </task>
+    <task id="LOCAL-00254" summary="added method=&quot;post&quot; to form">
+      <created>1447679454001</created>
+      <option name="number" value="00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1447679454001</updated>
+    </task>
+    <task id="LOCAL-00255" summary="added action=&quot;#&quot; to form">
+      <created>1447681447808</created>
+      <option name="number" value="00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1447681447809</updated>
+    </task>
+    <task id="LOCAL-00256" summary="commented out class in form">
+      <created>1447681591334</created>
+      <option name="number" value="00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1447681591334</updated>
+    </task>
+    <task id="LOCAL-00257" summary="added action=&quot;guest.php&quot; to form">
+      <created>1447681930551</created>
+      <option name="number" value="00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1447681930551</updated>
+    </task>
+    <task id="LOCAL-00258" summary="removed ] from link">
+      <created>1447682071442</created>
+      <option name="number" value="00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1447682071442</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2182" height="1402" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35442436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24976213" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed h1 to h4 in hope of changing font size" />
+    <MESSAGE value="undid previous changes - looked silly" />
+    <MESSAGE value="edited the way guest gets the username" />
+    <MESSAGE value="added session.start()" />
+    <MESSAGE value="removed ?php tag in url" />
+    <MESSAGE value="added welcome.php as second go at index page" />
+    <MESSAGE value="changed h1 to h4 to reduce size" />
+    <MESSAGE value="IMPORTED GOOGLE LIB FOR FONTS" />
+    <MESSAGE value="copied code from JBP" />
+    <MESSAGE value="updated refs" />
+    <MESSAGE value="MOVED LOGIN TO NAVBAR" />
+    <MESSAGE value="added padding to login" />
+    <MESSAGE value="added background image and removed jumbotron" />
+    <MESSAGE value="changed padding to margin" />
+    <MESSAGE value="updated margin" />
+    <MESSAGE value="added php" />
+    <MESSAGE value="changed colours" />
+    <MESSAGE value="updated php script" />
+    <MESSAGE value="updated button to submit" />
+    <MESSAGE value="updated page to recognise when guest and when not" />
+    <MESSAGE value="added method=&quot;post&quot; to form" />
+    <MESSAGE value="added action=&quot;#&quot; to form" />
+    <MESSAGE value="commented out class in form" />
+    <MESSAGE value="added action=&quot;guest.php&quot; to form" />
+    <MESSAGE value="removed ] from link" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed ] from link" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/adventure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12671232">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
