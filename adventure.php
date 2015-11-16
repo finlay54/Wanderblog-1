@@ -20,9 +20,26 @@
             </div>
         </div>
 
-        <div class="container-fluid" name="content">
-            <h4>I went on an adventure</h4>
+        <div class="container-fluid" id="content">
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <h4>I went on an adventure</h4>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
         </div>
+
+        <div class="container-fluid" id="photos">
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <h4>Photos will be here</h4>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+        </div>
+
 
     </body>
 </html>
