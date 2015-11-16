@@ -21,11 +21,15 @@
 		padding:100px 25px;
 	}
 	
-	.carousel-inner img{
+	.carousel-inner img {
 		width: 100%;
 		min-height: 500px;
 		max-height: 500px;
 		margin: auto;
+	}
+
+	#loginForm{
+		padding-top: 5px;
 	}
 	</style>
 </head>
