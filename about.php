@@ -123,7 +123,7 @@
 					Here at Wanderblog we care deeply about our valued users and do everything we can to make sure that their experience using our site is a pleasant one. Register
 					below to create your very own profile and start sharing your incredible experiences with the rest of our thriving community. 
 				</p>
-				<button class="btn btn-default btn-lg">Register now</button>
+				<button class="btn btn-default btn-lg" data-toggle="modal" data-target="#modal-reg">Register now</button>
 			</div>
 			<div class="col-sm-2">
 				<span class="glyphicon glyphicon-globe logo"></span>
