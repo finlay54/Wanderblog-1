@@ -39,16 +39,18 @@
 					<span class="icon-bar"></span> 
 				</button>
 				<a class="navbar-brand" href="welcome.php"><span class="glyphicon glyphicon-globe"></span></a>
-				<form role="form" class="form=control" id="loginForm" action="#" method="post">
-					<!--<div class="form-group">-->
-					<input type="text" name="username" placeholder="Username">
-					<input type="password" name="password" placeholder="Password">
-					<button type="submit" class="btn btn-success">LOGIN <span class="glyphicon glyphicon-ok"></span></button>
-					<!--</div>-->
-				</form>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<form role="form" class="form=control" id="loginForm" action="#" method="post">
+							<div class="form-group">
+								<input type="text" name="username" placeholder="Username">
+								<input type="password" name="password" placeholder="Password">
+								<button type="submit" class="btn btn-success">LOGIN <span class="glyphicon glyphicon-ok"></span></button>
+							</div>
+						</form>
+					</li>
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li class="dropdown">
