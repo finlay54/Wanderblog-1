@@ -28,8 +28,8 @@
       <file leaf-file-name="welcome.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/welcome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4420131">
-              <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
+            <state vertical-scroll-proportion="0.18161926">
+              <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -163,7 +163,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447691792139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed the register link to a button">
+      <created>1447691867730</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1447691867730</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -206,7 +212,8 @@
     <MESSAGE value="Added style to the Searches Dropdown" />
     <MESSAGE value="Added Register Modal when Register is clicked in the navbar" />
     <MESSAGE value="Made Register a link in the navbar and added the Modal Triggers into the link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Register a link in the navbar and added the Modal Triggers into the link tag" />
+    <MESSAGE value="Changed the register link to a button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the register link to a button" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -215,8 +222,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4420131">
-          <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
+        <state vertical-scroll-proportion="0.18161926">
+          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
           <folding />
         </state>
       </provider>

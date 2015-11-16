@@ -43,7 +43,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
-					<li><button data-toggle="modal" data-target="modal-reg">REGISTER</button></li>
+					<li><button class="btn" data-toggle="modal" data-target="#modal-reg">REGISTER</button></li>
 					<li><a href="#modal-login">LOGIN</a></li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
