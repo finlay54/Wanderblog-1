@@ -65,7 +65,7 @@
 		<p>Blogging site specifically for travelers</p> 
 		<form class="form-inline">
 			<input type="search" class="form-control" size="50" placeholder="What are you waiting for?">
-			<select>
+			<select class="form-control">
 				<option value="adventure">Adventure</option>
 				<option value="author">Author</option>
 			</select>
