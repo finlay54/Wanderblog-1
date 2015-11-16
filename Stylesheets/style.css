@@ -222,6 +222,7 @@ footer .glyphicon {
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
+    max-height: 30px;
 }
 
 .navbar li a, .navbar .navbar-brand {
