@@ -44,7 +44,13 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
-					<li><a href="#modal-login">LOGIN</a></li>
+					<li>
+						<form role="form" class="form=control" id="loginForm" action="#" method="post">
+							<input type="text" name="username" placeholder="Username">
+							<input type="password" name="password" placeholder="Password">
+							<button type="submit" class="btn btn-success">LOGIN <span class="glyphicon glyphicon-ok"></span></button>
+						</form>
+					</li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
 							<span class="caret"></span>
