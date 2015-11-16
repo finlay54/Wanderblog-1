@@ -8,13 +8,13 @@
     </head>
 
     <body>
-
         <div class="container-fluid" name="Title">
-            <h2>Adventure by Author</h2>
+            <h2>Adventure</h2>
+            <h4>by <a href="#">Author</a></h4>
         </div>
 
         <div class="container-fluid" name="content">
-            <h4>This is my Adventure</h4>
+            <h4>i went on an adventure</h4>
         </div>
 
     </body>
