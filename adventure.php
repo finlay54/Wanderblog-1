@@ -8,9 +8,16 @@
     </head>
 
     <body>
-        <div class="container-fluid" name="Title">
-            <h2>Adventure</h2>
-            <h4>by <a href="#">Author</a></h4>
+        <div class="container-fluid" id="Title">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h4>PIC HERE</h4>
+                </div>
+                <div class="col-sm-8">
+                    <h2>Adventure</h2>
+                    <h4>by <a href="#">Author</a></h4>
+                </div>
+            </div>
         </div>
 
         <div class="container-fluid" name="content">
