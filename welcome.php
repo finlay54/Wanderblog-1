@@ -43,7 +43,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
-					<li><button class="btn" data-toggle="modal" data-target="#modal-reg">REGISTER</button></li>
+					<li><button class="btn btn-link" data-toggle="modal" data-target="#modal-reg">REGISTER</button></li>
 					<li><a href="#modal-login">LOGIN</a></li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
@@ -68,34 +68,30 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
+					<h4><span class="glyphicon glyphicon-lock"></span> Register your account</h4>
 				</div>
 				<div class="modal-body">
 					<form role="form">
 						<div class="form-group">
-							<div class="col-sm-6">
-								<label for="firstname"><span class="glyphicon glyphicon-user"></span>First Name</label>
-								<input type="text" class="form-control" id="firstname" placeholder="Peregrin">
-							</div>
-							<div class="col-sm-6">
+								<label for="firstname">First Name</label>
+								<input type="text" class="form-control" id="firstname" placeholder="E.g Peregrin">
 								<label for="surname">Last name</label>
 								<input type="text" class="form-control" id="surname" placeholder="Took">
-							</div>
 						</div>
 						<div class="form-group">
-							<label for="username">Username</label>
+							<label for="username"><span class="glyphicon glyphicon-user"></span> Username</label>
 							<input type="text" class="form-control" id="username" placeholder="FoolOfATook">
 						</div>
 						<div class="form-group">
-							<label for="email">Email Address</label>
-							<input type="text" class="form-control" id="email" placeholder="MerryB@hobbitmail.com">
+							<label for="email"><span class="glyphicon glyphicon-envelope"></span> Email Address</label>
+							<input type="text" class="form-control" id="email" placeholder="WhatAboutSecondBreakfast@hobbitmail.com">
 						</div>
 						<div class="form-group">
-							<label for="password">Password</label>
+							<label for="password"><span class="glyphicon glyphicon-lock"></span> Password</label>
 							<input type="password" class="form-control" id="password" placeholder="Password">
 						</div>
 						<div class="form-group">
-							<label for="passwordconfirm">Confirm Password</label>
+							<label for="passwordconfirm"><span class="glyphicon glyphicon-lock"></span> Confirm Password</label>
 							<input type="password" class="form-control" id="passwordconfirm" placeholder="Password">
 						</div>
 						<button type="submit" class="btn btn-block">

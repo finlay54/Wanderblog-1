@@ -28,8 +28,8 @@
       <file leaf-file-name="welcome.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/welcome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18161926">
-              <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+            <state vertical-scroll-proportion="0.36761487">
+              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -169,7 +169,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447691867730</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed the style of the Register button in the navbar and also changed a few of the attributes">
+      <created>1447692234265</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1447692234265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -213,7 +219,8 @@
     <MESSAGE value="Added Register Modal when Register is clicked in the navbar" />
     <MESSAGE value="Made Register a link in the navbar and added the Modal Triggers into the link tag" />
     <MESSAGE value="Changed the register link to a button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the register link to a button" />
+    <MESSAGE value="Changed the style of the Register button in the navbar and also changed a few of the attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the style of the Register button in the navbar and also changed a few of the attributes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -222,8 +229,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18161926">
-          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+        <state vertical-scroll-proportion="0.36761487">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
           <folding />
         </state>
       </provider>
