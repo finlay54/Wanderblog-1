@@ -11,7 +11,7 @@
         <div class="container-fluid" id="Title">
             <div class="row">
                 <div class="col-sm-4">
-                    <h4>PIC HERE</h4>
+                    <img src="Stylesheets/Images/LOTR.jpg" alt="PIC HERE">
                 </div>
                 <div class="col-sm-8">
                     <h2>Adventure</h2>
