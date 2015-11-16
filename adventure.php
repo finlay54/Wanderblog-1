@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <div class="container-fluid" id="Title">
+        <div class="container-fluid bg-grey" id="Title">
             <div class="row">
                 <div class="col-sm-4">
                     <img src="Stylesheets/Images/LOTR.jpg" alt="PIC HERE">
