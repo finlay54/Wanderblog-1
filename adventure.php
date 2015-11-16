@@ -11,7 +11,7 @@
         <div class="container-fluid bg-grey" id="Title">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="Stylesheets/Images/LOTR.jpg" alt="PIC HERE">
+                    <img class="profilePhoto" src="Stylesheets/Images/LOTR.jpg" alt="PIC HERE">
                 </div>
                 <div class="col-sm-8">
                     <h2>There and Back Again: A Hobbit's Tale</h2>
@@ -30,7 +30,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" id="photos">
+        <div class="container-fluid bg-grey" id="photos">
             <div class="row">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-8">

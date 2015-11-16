@@ -204,3 +204,10 @@ footer .glyphicon {
     margin-bottom: 20px;
     color: #f4511e;
 }
+
+.profilePhoto{
+    max-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    min-height: 200px;
+}
