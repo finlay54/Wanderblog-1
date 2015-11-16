@@ -27,10 +27,6 @@
 		max-height: 500px;
 		margin: auto;
 	}
-
-	#loginForm{
-		padding-top: 5px;
-	}
 	</style>
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -46,13 +42,6 @@
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
-					<li>
-						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
-								<input class="form-control" type="text" name="username" placeholder="Username">
-								<input class="form-control" type="password" name="password" placeholder="Password">
-								<button type="submit" class="btn btn-success">LOGIN</button>
-						</form>
-					</li>
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li class="dropdown">
@@ -64,6 +53,13 @@
 							<li><a href="adventuresearch.html">ADVENTURE SEARCH</a></li>
 							<li><a href="suthorsearch.html">AUTHOR SEARCH</a></li>
 						</ul>
+					</li>
+					<li>
+						<form role="form" style="padding-top: 10px" class="form-inline" action="#" method="post">
+							<input class="form-control" type="text" name="username" placeholder="Username">
+							<input class="form-control" type="password" name="password" placeholder="Password">
+							<button type="submit" class="btn btn-success">LOGIN</button>
+						</form>
 					</li>
 				</ul>
 			</div>
