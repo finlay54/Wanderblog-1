@@ -43,7 +43,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
-					<li><a href="#modal-reg">REGISTER</a></li>
+					<li data-toggle="modal" data-target="modal-reg">REGISTER</li>
 					<li><a href="#modal-login">LOGIN</a></li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
@@ -59,6 +59,58 @@
 			</div>
 		</div>
 	</nav>
+
+	<!-- Modal -->
+	<div class="modal fade" id="modal-reg" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
+				</div>
+				<div class="modal-body">
+					<form role="form">
+						<div class="form-group">
+							<div class="col-sm-6">
+								<label for="firstname"><span class="glyphicon glyphicon-user"></span>First Name</label>
+								<input type="text" class="form-control" id="firstname" placeholder="Peregrin">
+							</div>
+							<div class="col-sm-6">
+								<label for="surname">Last name</label>
+								<input type="text" class="form-control" id="surname" placeholder="Took">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="username">Username</label>
+							<input type="text" class="form-control" id="username" placeholder="FoolOfATook">
+						</div>
+						<div class="form-group">
+							<label for="email">Email Address</label>
+							<input type="text" class="form-control" id="email" placeholder="MerryB@hobbitmail.com">
+						</div>
+						<div class="form-group">
+							<label for="password">Password</label>
+							<input type="password" class="form-control" id="password" placeholder="Password">
+						</div>
+						<div class="form-group">
+							<label for="passwordconfirm">Confirm Password</label>
+							<input type="password" class="form-control" id="passwordconfirm" placeholder="Password">
+						</div>
+						<button type="submit" class="btn btn-block">
+							Submit<span class="glyphicon glyphicon-ok"></span>
+						</button>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+						<span class="glyphicon glyphicon-remove"></span> Cancel
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div class="jumbotron text-center">
 		<h1>Wanderblog</h1> 
@@ -134,40 +186,6 @@
 			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 			<span class="sr-only">Next</span>
 		</a>
-	</div>
-	
-	<!-- Modal -->
-	<div class="modal fade" id="myModal" role="dialog">
-		<div class="modal-dialog">
-
-			<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
-				</div>
-				<div class="modal-body">
-					<form role="form">
-						<div class="form-group">
-							<label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
-							<input type="number" class="form-control" id="psw" placeholder="How many?">
-						</div>
-						<div class="form-group">
-							<label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
-							<input type="text" class="form-control" id="usrname" placeholder="Enter email">
-						</div>
-						<button type="submit" class="btn btn-block">
-							Pay<span class="glyphicon glyphicon-ok"></span>
-						</button>
-					</form>
-				</div>
-				<div class="modal-footer">
-					<button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-						<span class="glyphicon glyphicon-remove"></span> Cancel
-					</button>
-					</div>
-			</div>
-		</div>
 	</div>
 
 	<footer  class="container-fluid bg-4 text-center">
