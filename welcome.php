@@ -43,7 +43,7 @@
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
-					<li><button class="btn btn-link" data-toggle="modal" data-target="#modal-reg">REGISTER</button></li>
+					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li><a href="#modal-login">LOGIN</a></li>
 					<li class="dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
@@ -73,10 +73,14 @@
 				<div class="modal-body">
 					<form role="form">
 						<div class="form-group">
+							<div class="col-sm-6">
 								<label for="firstname">First Name</label>
 								<input type="text" class="form-control" id="firstname" placeholder="E.g Peregrin">
+							</div>
+							<div class="col-sm-6">
 								<label for="surname">Last name</label>
 								<input type="text" class="form-control" id="surname" placeholder="Took">
+							</div>
 						</div>
 						<div class="form-group">
 							<label for="username"><span class="glyphicon glyphicon-user"></span> Username</label>
@@ -100,7 +104,7 @@
 					</form>
 				</div>
 				<div class="modal-footer">
-					<button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+					<button type="submit" class="btn btn-danger btn-block" data-dismiss="modal">
 						<span class="glyphicon glyphicon-remove"></span> Cancel
 					</button>
 				</div>
