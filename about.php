@@ -28,11 +28,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span> 
 				</button>
-				<a class="navbar-brand" href="welcome.html"><span class="glyphicon glyphicon-globe"></span></a>
+				<a class="navbar-brand" href="welcome.php"><span class="glyphicon glyphicon-globe"></span></a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="welcome.html#carousel">TOP 5 TRIPS</a></li>
+					<li><a href="welcome.php#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#about">REGISTER</a></li>
 					<li><a href="#modal-login">LOGIN</a></li>
 					<li class="dropdown">
@@ -40,7 +40,7 @@
 							<span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu">
-							<li><a href="about.html">ABOUT</a></li>
+							<li><a href="about.php">ABOUT</a></li>
 							<li><a href="adventuresearch.html">ADVENTURE SEARCH</a></li>
 							<li><a href="suthorsearch.html">AUTHOR SEARCH</a></li>
 						</ul>
