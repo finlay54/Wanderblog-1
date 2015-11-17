@@ -80,12 +80,13 @@
 					$found=true;
 					$username=$tryUsername;
 					session_start();
-					$_SESSION['username']=$username;
-					$_SESSION['access_level']='standard_user';
+						$_SESSION['username']=$username;
+						$_SESSION['access_level']='standard_user';
 					header("Location: https://google.com");
 				}
 			}
 		}
+		else{header("Location: https://google.com");}
 
 
 	?>
@@ -146,8 +147,6 @@
 	/* PHP FOR REGISTER */
 		if($_POST['passwordconfirm'] == $_POST['password']){
 			$sql="";
-		}
-		else{
 			Header("Location: https://google.com");
 		}
 	?>
