@@ -45,7 +45,7 @@
 					<li><a href="#carousel">TOP 5 TRIPS</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
 					<li>
-						<form role="form" style="padding-top: 10px" class="form-inline" action="welcome.php" method="post">
+						<form role="form" style="padding-top: 10px" class="form-inline" action="login.php" method="post">
 							<input class="form-control" type="text" name="usernameInput" placeholder="Username">
 							<input class="form-control" type="password" name="passwordInput" placeholder="Password">
 							<button type="submit" class="btn btn-success">LOGIN</button>
@@ -66,34 +66,7 @@
 		</div>
 	</nav>
 
-	<?php
-	/*PHP FOR LOGIN */
-
-		ini_set('display_errors', 1);
-		ini_set('display_startup_errors', 1);
-		error_reporting(E_ALL);
-		$tryUsername = $_POST['usernameInput'];
-		$tryPassword = $_POST['passwordInput'];
-		$found = false;
-		$query="SELECT * FROM User;";
-		$results=mysqli_query($conn, $query);
-
-		if(mysqli_num_rows($results)>0) { /* if there are results (rows>0) */
-			while (($row = mysqli_fetch_array($results)) && ($found == false)) {
-				if($tryUsername==$row['userID'] && $tryPassword==$row['password']){
-					$found=true;
-					$username=$tryUsername;
-					session_start();
-						$_SESSION['username']=$username;
-						$_SESSION['access_level']='standard_user';
-					header("Location: https://google.com");
-				}
-			}
-		}
-		else{header("Location: https://google.com");}
-
-
-	?>
+	<!-- PHP HERE -->
 
 	<!-- Modal -->
 	<div class="modal fade" id="modal-reg" role="dialog">
