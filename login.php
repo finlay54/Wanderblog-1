@@ -20,11 +20,11 @@ if(mysqli_num_rows($results)>0) { /* if there are results (rows>0) */
             session_start();
             $_SESSION['username']=$username;
             $_SESSION['access_level']='standard_user';
-            header("Location: https://google.com");
+            echo "found";
         }
     }
 }
-else{header("Location: https://google.com");}
+else{echo "Not found";}
 
 
 ?>
