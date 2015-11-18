@@ -69,12 +69,7 @@
 	<!-- PHP HERE -->
 	<?php
 		/*PHP FOR LOGIN */
-
 		include 'connect.php';
-
-		ini_set('display_errors', 1);
-		ini_set('display_startup_errors', 1);
-		error_reporting(E_ALL);
 		$tryUsername = $_POST['usernameInput'];
 		$tryPassword = $_POST['passwordInput'];
 		$found = false;
@@ -89,11 +84,11 @@
 					session_start();
 					$_SESSION['username']=$username;
 					$_SESSION['access_level']='standard_user';
-					echo "found";
+					header("Location: https://google.com");
 				}
 			}
 		}
-		else{echo "Not found";}
+		else{header("Location: https://bing.com");}
 
 	?>
 
