@@ -88,7 +88,7 @@
 				}
 			}
 		}
-		else{header("Location: https://bing.com");}
+		else{}
 
 	?>
 
