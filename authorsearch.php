@@ -24,7 +24,7 @@
             background-color: #19BEF0;
         }
 
-        
+
 
         /*on small screens, set height to 'auto' for sidenav and grid*/
         @media screen and (max-width: 767px){
@@ -136,9 +136,10 @@
         <div class="col-sm-8 text-left">
             <h1>Welcome</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
-            <hr>
             <h3>Test</h3>
             <p>Lorem ipsum...</p>
+            <h1>Second item</h1>
+            <h1><a href="#">third item</a></h1>
         </div>
         <div class="col-sm-2 sidenav">
             <div class="well">
