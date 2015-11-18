@@ -10,10 +10,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="shortcut icon" href="images/earth.ico">
     <style>
-        /*.navbar {
-            margin-bottom: 0;
-            border-radius: 0;
-        }*/
+
         .row.content {height: 450px}
 
         .sidenav{
@@ -24,6 +21,7 @@
 
         .col-sm-8{
             padding-top: 40px;
+            background-color: #19BEF0;
         }
 
         /*on small screens, set height to 'auto' for sidenav and grid*/
@@ -50,7 +48,7 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#carousel">TOP 5 TRIPS</a></li>
+                <li><a href="welcome.php#carousel">TOP 5 TRIPS</a></li>
                 <li><a href="#" data-toggle="modal" data-target="#modal-reg">REGISTER</a></li>
                 <li>
                     <form role="form" style="padding-top: 10px" class="form-inline" action="welcome.php" method="post">
