@@ -24,6 +24,10 @@
             background-color: #19BEF0;
         }
 
+        .bg-4{
+            padding: 100px;
+        }
+
         /*on small screens, set height to 'auto' for sidenav and grid*/
         @media screen and (max-width: 767px){
             .sidenav{
