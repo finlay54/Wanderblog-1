@@ -9,22 +9,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="shortcut icon" href="images/earth.ico">
     <style>
-        .navbar {
+        /*.navbar {
             margin-bottom: 0;
             border-radius: 0;
-        }
+        }*/
         .row.content {height: 450px}
 
         .sidenav{
             padding-top: 20px;
             background-color: #f1f1f1;
             height: 100%;
-        }
-
-        footer{
-            background-color: #555;
-            color: white;
-            padding: 15px;
         }
 
         /*on small screens, set height to 'auto' for sidenav and grid*/
