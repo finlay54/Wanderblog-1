@@ -39,7 +39,7 @@
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
 
-
+<!--navbar-->
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -75,6 +75,58 @@
         </div>
     </div>
 </nav>
+
+<!--modal-->
+<div class="modal fade" id="modal-reg" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4><span class="glyphicon glyphicon-lock"></span> Register your account</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" method="post" id="registerForm">
+                    <div class="form-group">
+                        <div class="col-sm-6">
+                            <label for="firstname">First Name</label>
+                            <input type="text" class="form-control" id="firstname" placeholder="E.g Peregrin">
+                        </div>
+                        <div class="col-sm-6">
+                            <label for="surname">Last name</label>
+                            <input type="text" class="form-control" id="surname" placeholder="Took">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="username"><span class="glyphicon glyphicon-user"></span> Username</label>
+                        <input type="text" class="form-control" id="username" placeholder="FoolOfATook">
+                    </div>
+                    <div class="form-group">
+                        <label for="email"><span class="glyphicon glyphicon-envelope"></span> Email Address</label>
+                        <input type="text" class="form-control" id="email" placeholder="WhatAboutSecondBreakfast@hobbitmail.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="password"><span class="glyphicon glyphicon-lock"></span> Password</label>
+                        <input type="password" class="form-control" id="password" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <label for="passwordconfirm"><span class="glyphicon glyphicon-lock"></span> Confirm Password</label>
+                        <input type="password" class="form-control" id="passwordconfirm" placeholder="Password">
+                    </div>
+                    <button type="submit" class="btn btn-block">
+                        Submit<span class="glyphicon glyphicon-ok"></span>
+                    </button>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-danger btn-block" data-dismiss="modal">
+                    <span class="glyphicon glyphicon-remove"></span> Cancel
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="container-fluid text-center">
     <div class="row content">
