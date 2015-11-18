@@ -20,7 +20,10 @@
             padding-top: 20px;
             background-color: #19BEF0;
             height: 100%;
+        }
 
+        .col-sm-8{
+            padding-top: 40px;
         }
 
         /*on small screens, set height to 'auto' for sidenav and grid*/
