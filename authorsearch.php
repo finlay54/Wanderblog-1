@@ -24,6 +24,10 @@
             background-color: #19BEF0;
         }
 
+        .thumbnail{
+            background-color: #19BEF0;
+        }
+
 
 
         /*on small screens, set height to 'auto' for sidenav and grid*/
@@ -158,12 +162,6 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-3">
-                        <a href="#" class="thumbnail">
-                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
-                            <p>Hobbiton2</p>
-                        </a>
-                    </div>
                     <div class="col-md-3">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
