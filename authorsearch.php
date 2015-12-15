@@ -142,11 +142,34 @@
             <h1><a href="#">third item</a></h1>
             <h1>A</h1>
             <h1>B</h1>
-            <h1>C</h1>
-            <h1>D</h1>
-            <h1>E</h1>
-            <h1>F</h1>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="#" class="thumbnail">
+                            <p>Hobbiton</p>
+                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="#" class="thumbnail">
+                            <p>Hobbiton2</p>
+                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="#" class="thumbnail">
+                            <p>Hobbiton2</p>
+                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
+
+
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
