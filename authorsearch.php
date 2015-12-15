@@ -134,7 +134,7 @@
             <p><a href="#">Link</a></p>
         </div>
         <div class="col-sm-8 text-left">
-            <h1>Welcome</h1>
+            <h1>Search results for *searchValue*</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
             <h3>Test</h3>
             <p>Lorem ipsum...</p>
@@ -147,14 +147,33 @@
             <h1>E</h1>
             <h1>F</h1>
         </div>
-        <div class="col-sm-2 sidenav">
-            <div class="well">
-                <p>ADS</p>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="http://bit.ly/1oHaE7t" class="thumbnail">
+                        <p>Hobbtion</p>
+                        <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                    </a>
+                </div>
             </div>
-            <div class="well">
-                <p>ADS</p>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="http://bit.ly/1oHaE7t" class="thumbnail">
+                        <p>Hobbtion2</p>
+                        <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                    </a>
+                </div>
             </div>
         </div>
+       <!-- <div class="col-sm-2 sidenav">
+            <div class="well">
+                <p>ADS</p>
+            </div>
+            <div class="well">
+                <p>ADS</p>
+            </div>
+        </div>-->
     </div>
 </div>
 
