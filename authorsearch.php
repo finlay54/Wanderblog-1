@@ -137,25 +137,25 @@
             <h1>Search results for *searchValue*</h1>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton</p>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
@@ -164,25 +164,25 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <p>Hobbiton2</p>
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-4">
                         <a href="#" class="thumbnail">
                             <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
                             <p>Hobbiton2</p>
