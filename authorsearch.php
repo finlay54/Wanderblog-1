@@ -147,7 +147,7 @@
                     <div class="col-md-4">
                         <a href="#" class="thumbnail">
                             <p>Hobbiton</p>
-                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" style="width:150px;height:150px">
+                            <img src="http://bit.ly/1oHaE7t" alt="Hobbiton" <!--style="width:150px;height:150px"-->>
                         </a>
                     </div>
                     <div class="col-md-4">
